@@ -71,8 +71,7 @@ function saveEmployeePayrollForm(){
         console.log("else id :- " + id);
         return id;
     }
-
-};
+}; 
 
 function submitEmployeeForm(){
     window.location = "home.html";
